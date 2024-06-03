@@ -12,3 +12,4 @@
 👩‍💻Experiências profissionais:
 -Agente de Informática(IBGE)
 -Laboratório de consevação de Peças tridimencionais e Documentais(Museu Théo Brandão)
+-Arquivo Judiciário(Tribunal de Justiça - AL)
