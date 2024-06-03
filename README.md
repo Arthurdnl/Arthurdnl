@@ -8,6 +8,7 @@
 -Cursando Bacharelado em História(Ufal); 
 -Cursando TEC. para Informática para Internet(Senai);
 -Treinamento de RH, RM e Informática(ENCE)
+-Curso de front-end Fundação Bradesco
 
 👩‍💻Experiências profissionais:
 -Agente de Informática(IBGE)
